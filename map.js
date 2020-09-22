@@ -4,8 +4,8 @@ var ll = [];
 list.forEach(x => {
     ll.push(x * 2);
 });
-console.log(ll);;
+console.log(ll);
+
 // Using map function 
 var newlist = list.map((x) => x * 2);
-
 console.log(newlist);
