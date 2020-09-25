@@ -8,3 +8,7 @@ console.log(myFood);
 // console.log(myFood);
 myFood.splice(2, 2, "Lemon", "Chilli");
 console.log(myFood);
+myFood.push('Brocolli')
+console.log(myFood);
+myFood.pop()
+console.log(myFood);
